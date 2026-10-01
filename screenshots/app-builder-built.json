@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lehua Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 1977,
+      "bodyTextHash": "6845c119c7e860977ddf140eff834725f7e20496d2ce0238a0150a149320f68a",
+      "bodyTextPrefix": "BUYER DISCOVERY DESK Lehua Desk 14-3555 Lehua Rd, Pahoa · Nanawa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lehua Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 1977,
+      "bodyTextHash": "6845c119c7e860977ddf140eff834725f7e20496d2ce0238a0150a149320f68a",
+      "bodyTextPrefix": "BUYER DISCOVERY DESK Lehua Desk 14-3555 Lehua Rd, Pahoa · Nanawa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
